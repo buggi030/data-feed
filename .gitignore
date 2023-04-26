@@ -1,0 +1,5 @@
+app/vendor
+app/.php-cs-fixer.cache
+.phpunit.result.cache
+app/logs
+.idea
